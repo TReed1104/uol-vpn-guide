@@ -19,7 +19,7 @@ The university supplies a VPN solution for accessing the internal network from e
 
 6. Click the Download button
 
-![](images/windows_install.png)
+![](images/download.png)
 
 7. Run the installer
     - Click "Next"
