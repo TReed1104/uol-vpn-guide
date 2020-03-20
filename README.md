@@ -41,3 +41,8 @@ The university supplies a VPN solution for accessing the internal network from e
 10. Click "Accept" on the new prompt
 
 11. You should now be connected to the University supplied VPN and will be able to access the internal network
+
+12. The status of your connection to the VPN is visible via the icon in your Operating System's system tray
+
+    ![](images/system_tray_icon.png)
+
