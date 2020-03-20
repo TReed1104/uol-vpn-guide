@@ -3,7 +3,7 @@ The university supplies a VPN solution for accessing the internal network from e
 
 1. Go to http://remote.lincoln.ac.uk/
 
-![](images/landing.png)
+    ![](images/landing.png)
 
 2. Enter your University username and password (e.g. your student account or staff account)
 
@@ -11,15 +11,15 @@ The university supplies a VPN solution for accessing the internal network from e
 
 4. On the left-hand side, click "VPN Client (Any Connect)"
 
-![](images/anyconnect_link.png)
+    ![](images/anyconnect_link.png)
 
 5. Click "start AnyConnect"
 
-![](images/click_start.png)
+    ![](images/click_start.png)
 
 6. Click the Download button
 
-![](images/download.png)
+    ![](images/download.png)
 
 7. Run the installer
     - Click "Next"
@@ -29,17 +29,15 @@ The university supplies a VPN solution for accessing the internal network from e
     - Click "Finish"
 
 8. Open Cisco AnyConnect on your machine
+    - You may be required to enter remote.lincoln.ac.uk as your connection target. (Windows should configure this automatically)
+    - Click "Connect"
 
-![](images/anyconnect_open.png)
+    ![](images/anyconnect_open.png)
 
-9. If required, enter remote.lincoln.ac.uk as your connection target. (Windows should configure this automatically)
+9. Enter your University login details in the now open open window
 
-10. Click "Connect"
+    ![](images/anyconnect_login.png)
 
-11. Enter your University login details in the now open open window
+10. Click "Accept" on the new prompt
 
-![](images/anyconnect_login.png)
-
-12. Click "Accept" on the new prompt
-
-13. You should now be connected to the University supplied VPN and will be able to access the internal network
+11. You should now be connected to the University supplied VPN and will be able to access the internal network
