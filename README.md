@@ -46,3 +46,51 @@ The university supplies a VPN solution for accessing the internal network from e
 
     ![](images/system_tray_icon.png)
 
+
+# Remote Accessing Windows
+Feel free to setup the VNC viewer/client of your choice, but the following guide will be using RealVNC's remote client.
+
+1. Go to https://www.realvnc.com/en/connect/download/viewer/
+
+2. Choose your operating system.
+
+    ![](images/realvnc_os.png)
+
+3. Click the "Download VNC Viewer".
+
+    ![](images/download_realvnc_button.png)
+
+4. Run the downloaded installer and follow these steps:
+    - Select your language of choice
+    - Click "Next"
+    - Click "I accept the terms in the License Agreement"
+    - Click "Next"
+    - Change the install location if needed
+    - Click "Next"
+    - Click "Install"
+    - Click "Finish"
+
+5. Open the "VNC Viewer" application which has been installed.
+
+    ![](images/realvnc_client.png)
+
+6. Ensure you are on the University supplied VPN (make sure AnyConnect is running and connected), see the above guide if setup is required.
+
+    ![](images/system_tray_icon.png)
+
+7. On the VNC Viewer application, enter your assigned IP address in the "Enter a VNC Server addess or search" box.
+
+    ![](images/realvnc_ip_box.png)
+
+    ![](images/realvnc_ip_enterred.png)
+
+8. Press Enter to launch the connection and click "Continue" on "Unencrypted connection" prompt which will open.
+
+9. Enter your assigned password in the login prompt.
+
+    ![](images/realvnc_login.png)
+
+10. Press Enter and you should now be connected to the desktop
+
+    ![](images/connected_desktop.png)
+
