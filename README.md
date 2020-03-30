@@ -83,7 +83,8 @@ Feel free to setup the VNC viewer/client of your choice, but the following guide
 
     ![](images/system_tray_icon.png)
 
-7. On the VNC Viewer application, enter your assigned IP address in the "Enter a VNC Server addess or search" box. You may be required to append port 5900 to your assigned ip address, for example: 192.168.0.1:5900.
+7. On the VNC Viewer application, enter your assigned IP address in the "Enter a VNC Server addess or search" box.
+    * Note: You may be required to append port 5900 to your assigned ip address, for example: 192.168.0.1:5900
 
     ![](images/realvnc_ip_box.png)
 
