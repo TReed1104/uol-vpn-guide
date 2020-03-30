@@ -1,9 +1,9 @@
 # Remote Access Guide
 ## Contents
-* [VPN Setup](#vpn-Setup)
-* [Remote Accessing Windows](#remote-accessing-windows)
+* [Setting Up The University VPN](#setting-up-the-university-vpn)
+* [Remotely Accessing A Windows Machine](#remotely-accessing-a-windows-machine)
 
-## VPN Setup
+## Setting Up The University VPN
 The university supplies a VPN solution for accessing the internal network from external sources (E.g. Your home!)
 
 1. Go to http://remote.lincoln.ac.uk/
@@ -52,7 +52,7 @@ The university supplies a VPN solution for accessing the internal network from e
     ![](images/system_tray_icon.png)
 
 
-## Remote Accessing Windows
+## Remotely Accessing A Windows Machine
 Feel free to setup the VNC viewer/client of your choice, but the following guide will be using RealVNC's remote client.
 
 1. Go to https://www.realvnc.com/en/connect/download/viewer/
